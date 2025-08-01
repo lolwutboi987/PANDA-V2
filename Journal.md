@@ -33,7 +33,9 @@ This machine will also be constructed out of polymaker PET-CF17 as it is incredi
 ## Day Two (7/30/25) (10 Hours) ##
 
 With all of this in mind, i got to work. 
+
 <img width="994" height="983" alt="image" src="https://github.com/user-attachments/assets/7dd1949b-8bfb-44d2-99a6-9d8905a8f4e4" />
+
 I constructed the frame to adopt much stiffer 4040 Extrusions to reduce the amount of resonation and it's propogation
 The Z axis was designed with 2 MGN9H rails to reduce slop and increase the translation of any torque into panda v2's incredibly stiffer frame. It still retain's panda v1's belted nature.
 The Y axis was designed based off of the LH stinger and the Kevender. It adopts an AWD system and double shear prevent resonation. 
@@ -43,10 +45,13 @@ There's also a nifty little handle in the Z tensioner to make PANDA v2 easier to
 
 The final day. 
 <img width="1201" height="576" alt="image" src="https://github.com/user-attachments/assets/a5f04bd6-238e-4bdc-a06f-fb4195a93bbb" />
+
 Due to strain issues on the X axis, I cannot make it AWD, however shaper behaviour at AWD performance in the toolhead will likely be unacceptable.
 The Toolhead is a much cleaner design and adopts protoXtruder, a lightweight, yet HGX lite based extruder as I still firmly stand by the advantage of large gears when it comes to grip on filaments like TPU. 
 The X axis is going to be made out of 2, 5mm CNC steel parts to increase rigidity and reduce torsion. 
 The toolhead also adopts a CPAP to both increase airflow and reduce weight on the toolhead.
+
 <img width="666" height="522" alt="image" src="https://github.com/user-attachments/assets/df8c3de6-954e-48d0-a7cf-1b6e080a1355" />
+
 As you can see, I'm using a biqu Microprobe and a lancer standard hotend. The ducts are optimized both to provide direct and sheetcooling. 
 
