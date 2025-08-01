@@ -1,5 +1,7 @@
 <img width="467" height="465" alt="image" src="https://github.com/user-attachments/assets/a5023d66-918e-47a1-ac26-c1803365f793" />
+
 Total Hours: 25
+
 ## Day one (7/28/25) (5 Hours) ##
 
 I began with sitting in my room, bored. I had no idea what to do. And then, my little sibling asks if i could 3d print something, a complex, flexidragon with many overhangs, bridges, and Print-In-Place parts, to which, I reply no. 
