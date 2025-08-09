@@ -1,3 +1,10 @@
+---
+title: "PANDA-V2"
+author: "Evan Le"
+description: "Another, Foldable high-speed printer for hackathons"
+created_at: "2025-07-30"
+---
+
 <img width="467" height="465" alt="image" src="https://github.com/user-attachments/assets/a5023d66-918e-47a1-ac26-c1803365f793" />
 
 Total Hours: 25
