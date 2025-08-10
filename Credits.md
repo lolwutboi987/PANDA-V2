@@ -13,7 +13,7 @@ Big thanks to Polymaker for supporting me with a vast selection of materials and
 
 ## Burgo's Machinations ##
 
-Huge thanks to Sylvia (Burgo) for providing me with her WS7040 to keep the plastic cool, and teaching me the ways of mechanical engineering, especially when it comes to many important aspects of 3d printing. She taught me nearly everything I know, from sourcing parts to proper design when it comes to cadding 3d printers and building them. 
+Huge thanks to Sylvia (Burgo) for providing me with her WS7040 to keep the plastic cool, and teaching me the ways of mechanical engineering, especially when it comes to many important aspects of 3d printing. She taught me nearly everything I know, from sourcing parts to proper design when it comes to cadding 3d printers and building them. I would not be here, making the second revision of the already beloved panda if it werent for her generosity and kindness.
 
 ## Sirayatech ##
 
